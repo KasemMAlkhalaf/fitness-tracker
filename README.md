@@ -1,6 +1,5 @@
 # Fitness Tracker — ДЗ №3 (Вариант 14)
 
-Приложение для отслеживания тренировок, аналог [MyFitnessPal](https://www.myfitnesspal.com/).  
 Стек: **FastAPI** + **asyncpg** + **PostgreSQL 16**
 
 ---
