@@ -37,7 +37,7 @@
 │    users    │       │    workouts      │       │ workout_exercises  │
 │─────────────│       │──────────────────│       │────────────────────│
 │ id (PK)     │──┐    │ id (PK)          │──┐    │ id (PK)            │
-│ login       │  └──▶ │ user_id (FK)     │  └──▶ │ workout_id (FK)    │
+│ login       │  └──▶ │ user_id (FK)     │  └──▶│ workout_id (FK)    │
 │ first_name  │       │ title            │       │ exercise_id (FK)   │
 │ last_name   │       │ notes            │       │ sets               │
 │ email       │       │ started_at       │       │ reps               │
